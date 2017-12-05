@@ -1,4 +1,7 @@
-master-minds
+# Built a student-course pairing program (using integer linear programming) in a team: 
+Given student course schedules, pre-requisite rules, course availability, and enrollment limits, the program attempts to accommodates the maximum possible number of students within a given time period
+
+Project Info:
 ============
 
 ### Local VM Database Population
