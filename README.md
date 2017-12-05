@@ -41,7 +41,7 @@ Steps to get the project up and running on local :-
 Step 0:-
 
 Clone the repository into your local using the command:-
-git clone https://github.gatech.edu/ssrivastava64/master-minds.git
+git clone https://github.com/drozen/Smart-Course-Student-Allocation-System
 
 Step 1:-
 
